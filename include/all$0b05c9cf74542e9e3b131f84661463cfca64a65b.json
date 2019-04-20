@@ -1,0 +1,34 @@
+{
+    "packages": {
+        "ueeng/ue-perfmatters": {
+            "dev-master": {
+                "name": "ueeng/ue-perfmatters",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@github.com:ueeng/ue-perfmatters.git",
+                    "reference": "37f87941624b44a6ae92c326758972eae32a9384"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ueeng/ue-perfmatters/zipball/37f87941624b44a6ae92c326758972eae32a9384",
+                    "reference": "37f87941624b44a6ae92c326758972eae32a9384",
+                    "shasum": ""
+                },
+                "time": "2019-04-20T10:50:41+00:00",
+                "type": "wordpress-plugin",
+                "authors": [
+                    {
+                        "name": "Stefanie Hetjens",
+                        "email": "stefanie@hetjens.com"
+                    }
+                ],
+                "support": {
+                    "source": "https://github.com/ueeng/ue-perfmatters/tree/master",
+                    "issues": "https://github.com/ueeng/ue-perfmatters/issues"
+                }
+            }
+        }
+    }
+}
