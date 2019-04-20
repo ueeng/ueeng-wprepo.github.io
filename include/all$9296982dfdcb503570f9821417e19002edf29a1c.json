@@ -11,10 +11,10 @@
                     "reference": "bd971a43131c7b9ff38f75ed52db4e789a2d35a4"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/ueeng/ue-perfmatters/zipball/bd971a43131c7b9ff38f75ed52db4e789a2d35a4",
+                    "type": "tar",
+                    "url": "https://repo.ueeng.com/dist/ueeng/ue-perfmatters/ueeng-ue-perfmatters-bd971a43131c7b9ff38f75ed52db4e789a2d35a4-zip-02c882.tar",
                     "reference": "bd971a43131c7b9ff38f75ed52db4e789a2d35a4",
-                    "shasum": ""
+                    "shasum": "c71b7ebee5899b4ab78f69b2a4c557aec308543b"
                 },
                 "time": "2019-04-20T12:20:53+00:00",
                 "type": "wordpress-plugin",
@@ -69,10 +69,10 @@
                     "reference": "d477fa16c146c8d0f0a572d51ec6f788c331889d"
                 },
                 "dist": {
-                    "type": "zip",
-                    "url": "https://api.github.com/repos/ueeng/wpbase/zipball/d477fa16c146c8d0f0a572d51ec6f788c331889d",
+                    "type": "tar",
+                    "url": "https://repo.ueeng.com/dist/ueeng/wpbase/ueeng-wpbase-d477fa16c146c8d0f0a572d51ec6f788c331889d-zip-173e41.tar",
                     "reference": "d477fa16c146c8d0f0a572d51ec6f788c331889d",
-                    "shasum": ""
+                    "shasum": "8fa8d97c50f330e9cd712b024a4aeb7274c3f010"
                 },
                 "require": {
                     "composer/installers": "^1.4",
